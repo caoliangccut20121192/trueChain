@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ZZMarquis/gm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/caoliangccut20121192/trueChain" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/truechain-engineering-code" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/truechain/truechain-engineering-code" vcs="Git" />
+  </component>
+</project>
